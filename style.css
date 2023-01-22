@@ -1,0 +1,116 @@
+body{
+    margin:0px;
+    padding:0px;
+    text-align: center;
+    height:100%;
+   
+}
+.img1{
+    width: 100%;
+    height:100%;
+    
+}
+.top-nav{
+    width:100%;
+    height:30%;
+    
+    
+}
+.top-nav h1{
+    position: relative;
+    margin: -40% auto 0 40% ;
+    font-size: 80px;
+    color: #1A120B;
+    font-family: 'Sacramento', cursive;
+}
+.nav{
+    position: relative;
+    margin: -50% 5% 0 auto ;
+    float: right;
+}
+.nav td{
+    font-size: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color:orange;
+}
+.nav-back{
+    position: relative;
+    margin: -51% 0% 0 auto ;
+    float: right;
+   
+}
+.middle-container{
+    margin-top: 500px;
+}
+.monkey-img{
+    width:200px;
+    height:200px;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row{
+    width:55%;
+    margin:100px auto 100px auto;
+}
+.bear{
+    width:200px;
+    height:200px;
+    float: right;
+    margin-left: 30px;
+}
+.bottom-container{
+    background-color:#1A120B;
+    padding-bottom: 20px;
+    margin-top: 50px;
+
+    
+}
+.profile-data{
+    width:300px;
+    margin: 0 auto 0 auto;
+    font-size:20px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+hr{
+    border: 8px dotted red;
+    border-top: none;
+    width:200px;
+   
+}
+.profile-data1{
+    font-size:60px;
+    font-family: 'Sacramento', cursive;
+}
+.skills{
+    margin-top:60px;
+}
+.btn {
+    background: #FF7B54;
+    background-image: -webkit-linear-gradient(top, #FF7B54, #FFB26B);
+    background-image: -moz-linear-gradient(top, #FF7B54, #FFB26B);
+    background-image: -ms-linear-gradient(top, #FF7B54, #FFB26B);
+    background-image: -o-linear-gradient(top, #FF7B54, #FFB26B);
+    background-image: linear-gradient(to bottom, #FF7B54, #FFB26B);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .bottom-container P {
+    color:white;
+
+  }
+  .contact-me{
+    margin-top:30px;
+  }
+  .row-heading{
+   color: #FF7B54;
+   font-weight: bold;
+  }
+  
